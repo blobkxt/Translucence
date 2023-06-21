@@ -15,8 +15,8 @@
 :root {
 	--app-bg: url(https://media.discordapp.net/attachments/1117156803390746795/1121121317345841183/astolgooo.png);
 	--app-blur: 2px;
-	--app-margin: 0px;
-	--app-radius: 0px; /*	-	*/
+	--app-margin: 1px;
+	--app-radius: 1px; /*	-	*/
 	
 	--accent-hue: 303;
 	--accent-saturation: 100%;
