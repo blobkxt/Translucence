@@ -14,18 +14,18 @@
 
 :root {
 	--app-bg: url(https://media.discordapp.net/attachments/1117156803390746795/1121121317345841183/astolgooo.png);
-	--app-blur: 2px;
+	--app-blur: 0.3px;
 	--app-margin: 1px;
 	--app-radius: 1px; /*	-	*/
 	
 	--accent-hue: 303;
 	--accent-saturation: 100%;
-	--accent-lightness: 76%;
+	--accent-lightness: 42%;
 	--accent-opacity: 1;
 	--accent-text-color: #000; /*	-	*/
 
-	--sidebar-color: rgba(0,0,0,0.4);
-	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
+	--sidebar-color: rgba(232,118,226,0.4);
+	--main-content-color: rgba(201,123,198,0.2); /*	-	*/
 
 	--message-color: rgba(0,0,0,0.2);
 	--message-radius: 6px;
@@ -34,14 +34,14 @@
 	
 	--reply-hue: 303;
 	--reply-saturation: 78%;
-	--reply-lightness: 64%;
+	--reply-lightness: 58%;
 	--reply-opacity: 1; /*	-	*/
 
 	--textarea-color: 255,255,255;
 	--textarea-alpha: 0.1;
 	--textarea-alpha-focus: 0.15;
 	--textarea-text-color: #fff;
-	--textarea-radius: 22px;  /*	-	*/
+	--textarea-radius: 11px;  /*	-	*/
 
 	--card-color: rgba(0,0,0,0.4);
 	--card-color-hover: rgba(0,0,0,0.5);
@@ -50,7 +50,7 @@
 	--button-height: 32px;
 	--button-padding: 0 16px;
 	--button-action-color: #000;
-	--button-radius: 16px; /*	-	*/
+	--button-radius: 8px; /*	-	*/
 
 	--interactive-normal: #aaa;
 	--interactive-hover: #ddd;
