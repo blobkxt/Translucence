@@ -13,28 +13,28 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://media.discordapp.net/attachments/1117156803390746795/1121114568043806811/Screenshot_2023-06-21_172848.png?width=1440&height=609);
-	--app-blur: 6px;
-	--app-margin: 15px;
-	--app-radius: 5px; /*	-	*/
+	--app-bg: url(https://media.discordapp.net/attachments/1117156803390746795/1121121317345841183/astolgooo.png);
+	--app-blur: 2px;
+	--app-margin: 0px;
+	--app-radius: 0px; /*	-	*/
 	
-	--accent-hue: 38;
+	--accent-hue: 303;
 	--accent-saturation: 100%;
-	--accent-lightness: 52%;
+	--accent-lightness: 76%;
 	--accent-opacity: 1;
 	--accent-text-color: #000; /*	-	*/
 
 	--sidebar-color: rgba(0,0,0,0.4);
 	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
 
-	--message-color: rgba(0,0,0,0.4);
-	--message-radius: 8px;
-	--message-padding-top: 8px;
-	--message-padding-side: 8px; /*	-	*/
+	--message-color: rgba(0,0,0,0.2);
+	--message-radius: 6px;
+	--message-padding-top: 6px;
+	--message-padding-side: 6px; /*	-	*/
 	
-	--reply-hue: 39;
-	--reply-saturation: 100%;
-	--reply-lightness: 51%;
+	--reply-hue: 303;
+	--reply-saturation: 78%;
+	--reply-lightness: 64%;
 	--reply-opacity: 1; /*	-	*/
 
 	--textarea-color: 255,255,255;
